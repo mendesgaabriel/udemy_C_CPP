@@ -1,0 +1,2 @@
+- muito CTRL V.
+- parou de usar C em um ponto do curso. (por mais que tenha justificado, dificulta o aprendizado de quem tem aula apenas em C.)
